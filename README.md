@@ -1,4 +1,3 @@
-# Proje İsmi: HayalEt
 <h3>Chat AI</h3>
 
 <p>This project is a web application that offers both written and visual content to users using artificial intelligence technologies. The project is built using React, Redux, Redux-Thunk ChatGPT and DALL-E2 technologies.</p>
@@ -25,4 +24,5 @@
 <p>Proje, React, Redux, Redux-Thunk kullanılarak geliştirilmiştir ve bu nedenle kullanıcılar, herhangi bir cihazda web uygulamasını kullanabilirler.</p>
 
 <h3>Project preview:</h3>
+
 ![](AI.gif)
