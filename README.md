@@ -25,6 +25,4 @@
 <p>Proje, React, Redux, Redux-Thunk kullanılarak geliştirilmiştir ve bu nedenle kullanıcılar, herhangi bir cihazda web uygulamasını kullanabilirler.</p>
 
 <h3>Project preview:</h3>
-
 ![](AI.gif)
-# Artificial-Intelligence-App
